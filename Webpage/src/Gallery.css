@@ -1,0 +1,9 @@
+.gallery {
+    max-height: 200px;
+    overflow-y: auto;
+}
+
+.w-100 {
+    max-width: 416px !important;
+    max-height: 350px !important;
+}
